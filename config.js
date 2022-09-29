@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/maxxy_ofc'
+global.sig = 'https://instagram.com/nizarrrahman.f_'
 global.sgh = '-' //github
 global.sgc = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw' // my youtube channel
+global.snh = 'https://nizarrahman.000webhostapp.com/' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282' //dana
+global.pdana = '' //dana
 global.povo = '' //ovo
 global.pgopay = '' //gopay
 global.plinkaja = '' //link aja
-global.ppulsa = '085295374964' //telkomsel
-global.ppulsa2 = '085380166282' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/MaxxyBotz'
+global.ppulsa = '081386945391' //telkomsel
+global.ppulsa2 = '' // kalau ada kartu lain isi aja
+global.psaweria = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛'
-global.nameown = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.nomorbot = '79309773703'
+global.nomorown = '6281386945391','6281223618476,'6283120240903'
+global.namebot = 'NAI-MD-V2'
+global.nameown = 'Nizar Rahman'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,9 +58,9 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true],
+  ['6281386945391', 'Nizar', true],
+  ['6281223618476', 'irham', true],
+  ['6283120240903', 'Adryan', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛 '
+global.wm = '                「 Nai Developer 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝗡𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ N͓̽A͓̽I͓̽-͓̽D͓̽e͓̽v͓̽e͓̽l͓̽o͓̽p͓̽e͓̽r͓̽ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿`
-global.author = '                「 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Nizar Adryan Irham`
+global.author = '                「 𝗡𝗔𝗜-𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛'
-global.stickauth = `By ©𝙆𝘼𝙃𝙁𝙄-𝙓𝘿`
+global.stickpack = '𝗡𝗔𝗜-𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿'
+global.stickauth = `By ©𝗡𝗔𝗜-𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿`
 
 global.multiplier = 38 // The higher, The harder levelup
 
