@@ -20,17 +20,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿
-${htjava} *✉️ Nama RL* : 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛
+${htjava} *💌 Nama* : N͓̽i͓̽z͓̽a͓̽r͓̽ ͓̽R͓̽a͓̽h͓̽m͓̽a͓̽n͓̽
+${htjava} *✉️ Nama RL* : Nizar
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 18
-${htjava} *🧮 Kelas* : SUDAH TUA
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
+${htjava} *⏰ Tanggal lahir* : 02-11-2005 🥶
+${htjava} *🎨 Umur* : 17
+${htjava} *🧮 Kelas* : 11 Smk
+${htjava} *🧩 Hobby* : Renang Basket
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, Aceh, Aceh Timur 
-${htjava} *❤️ Waifu* : -
+${htjava} *🗺️ Tinggal* : Indo, Cianjur, Jawa Barat 
+${htjava} *❤️ Waifu* : Bukan Wibu
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
