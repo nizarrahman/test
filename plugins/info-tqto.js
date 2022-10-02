@@ -27,9 +27,9 @@ https://instagram.com/adrynngrha
 https://instagram.com/yuki_sen23
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/_ctzhid",
+    mediaUrl: "https://Instagram.com/nai_developer",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/_ctzhid", 
+    description: "https://Instagram.com/nai_developer", 
     title: 'WH-MODS-DEV-MultiDevice',
     body: wm,
     thumbnail: thumb,
