@@ -30,7 +30,7 @@ conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { extern
     mediaUrl: "https://Instagram.com/nai_developer",
     mediaType: "VIDEO",
     description: "https://Instagram.com/nai_developer", 
-    title: 'WH-MODS-DEV-MultiDevice',
+    title: '𝙉𝘼𝙄-𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
