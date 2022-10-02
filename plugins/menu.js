@@ -503,12 +503,12 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n By 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿',
+            footer: titlebot + '\n By 𝙉𝘼𝙄-𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧',
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: `SUBSCRIBE`,
-                        url: 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+                        displayText: `Follow`,
+                        url: 'https://instagram.com/nai_developer'
                     }
                 },
                 {
